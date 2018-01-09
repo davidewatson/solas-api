@@ -17,8 +17,7 @@ limitations under the License.
 package main
 
 import (
-	//"github.com/samsung-cnct/zabra/cmd"
-	"./cmd"
+	"github.com/samsung-cnct/zabra/cmd"
 	"os"
 )
 
